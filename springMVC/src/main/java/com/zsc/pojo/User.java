@@ -9,6 +9,7 @@ public class User {
 		// TODO Auto-generated constructor stub
 	}
 
+	//swwe
 	public User(String name, String ssex) {
 		super();
 		this.name = name;
